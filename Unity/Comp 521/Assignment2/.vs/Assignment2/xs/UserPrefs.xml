@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/cloud.cs">
+    <Files>
+      <File FileName="Assets/Generator.cs" Line="17" Column="32" />
+      <File FileName="Assets/PerlinNoise.cs" Line="7" Column="15" />
+      <File FileName="Assets/Generate2DTerrain.cs" Line="58" Column="9" />
+      <File FileName="Assets/PlayerController.cs" Line="27" Column="17" />
+      <File FileName="Assets/BulletController.cs" Line="17" Column="22" />
+      <File FileName="Assets/weapon.cs" Line="33" Column="51" />
+      <File FileName="Assets/Projectile.cs" Line="9" Column="25" />
+      <File FileName="Assets/ballLaunch.cs" Line="8" Column="26" />
+      <File FileName="Assets/Scripts/Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="19" Column="27" />
+      <File FileName="Assets/Scripts/PlayerBall.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ControllerBall.cs" Line="129" Column="7" />
+      <File FileName="Assets/cloud.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/byusa/Desktop/Unity/Assignment2/Assets/Rectangle.cs" relfile="Assets/Rectangle.cs" line="70" column="29" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
